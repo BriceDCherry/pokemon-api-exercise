@@ -1,5 +1,3 @@
-My pokemon API!
-
 ## Pokemon API
 
 Your task is to build and deploy an API to create, read, update, and delete Pokemon. The API should:
