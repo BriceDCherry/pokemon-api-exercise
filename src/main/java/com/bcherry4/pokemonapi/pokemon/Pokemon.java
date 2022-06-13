@@ -23,21 +23,5 @@ public class Pokemon {
   @Column(name = "image_url")
   private String imageUrl;
 
-public Long getId() {
-    return null;
-}
 
-public Object getName() {
-    return null;
-}
-
-public Object getImageUrl() {
-    return null;
-}
-
-public void setName(Object name2) {
-}
-
-public void setImageUrl(Object imageUrl2) {
-}
 }
