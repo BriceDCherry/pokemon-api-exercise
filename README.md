@@ -1,4 +1,4 @@
-## Pokemon API
+Deployed API: https://pokemon-spring-boot-brice.herokuapp.com/api/pokemon
 
 Your task is to build and deploy an API to create, read, update, and delete Pokemon. The API should:
 
